@@ -44,23 +44,39 @@ namespace ConsoleApp1
 
             var parser = new HtmlParser();
             var document = await parser.ParseDocumentAsync(source);
-            
-            string result = string.Empty;
+            int countOfReading = 20;
+            string result = $"Значение первых {countOfReading} атрибутов HREF тега 'А' для сайта: {urlAddress}\n";
             int i = 1;
             foreach (var r in document.GetElementsByTagName("a"))
             {
                 result += i + ") " + r.GetAttribute("href") + "\n";
                 i++;
-                if (i > 20)
+                if (i > countOfReading)
                 {
                     break;
                 }
             }
             
-            Console.WriteLine($"Значение первых 20 атрибутов HREF тега 'А' для сайта: {urlAddress}\n" + result);  
-            
+            Console.WriteLine(result);
+            WriteToFile(result);
 
             Console.Read();
-        }        
+        } 
+        
+        public static void WriteToFile(string data)
+        {
+            string path = Path.Combine(Directory.GetCurrentDirectory(), "result.txt");
+            try
+            {              
+             using (StreamWriter sw = new StreamWriter(path, true, System.Text.Encoding.Default))
+                {
+                    sw.WriteLine(data);                    
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+        }
     }
 }

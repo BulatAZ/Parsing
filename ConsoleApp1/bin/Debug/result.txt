@@ -1,0 +1,22 @@
+Значение первых 20 атрибутов HREF тега 'А' для сайта: https://yandex.ru
+1) https://passport.yandex.ru/auth?origin=home_desktop_ru&retpath=https%3A%2F%2Fmail.yandex.ru%2F%2F%3Fmsid%3D1560353384.23932.122059.182417%26m_pssp%3Ddomik&backpath=https%3A%2F%2Fyandex.ru
+2) https://passport.yandex.ru/registration/mail?from=mail&origin=home_desktop_ru&retpath=https%3A%2F%2Fmail.yandex.ru%2F
+3) https://passport.yandex.ru/auth?origin=home_desktop_ru&retpath=https%3A%2F%2Fmail.yandex.ru%2F%2F%3Fmsid%3D1560353384.23932.122059.182417%26m_pssp%3Ddomik&backpath=https%3A%2F%2Fyandex.ru
+4) https://plus.yandex.ru?from=personal&utm_campaign=plus&utm_medium=personal&utm_source=yandex&source=personal
+5) https://yandex.ru/pogoda/kazan?utm_from=ya_side-card-morda&utm_source=side-card
+6) https://yandex.ru/pogoda/kazan/nowcast?utm_from=ya_side-card-morda&utm_source=side-card
+7) https://yandex.ru/local/kazan/top?event_id=1347847&from=home&gid=43&_openstat=rtx_desktop&utm_source=main&utm_medium=tips&utm_campaign=tips_1&utm_content=mini_post
+8) https://yandex.ru/tune/geo/?retpath=https%3A%2F%2Fyandex.ru%2F%3Fdomredir%3D1&nosync=1
+9) https://yandex.ru/legal/confidential/
+10) https://yandex.ru/tune/lang/?retpath=https%3A%2F%2Fyandex.ru%2F%3Fdomredir%3D1&nosync=1
+11) https://yandex.ru/?lang=tt&sk=y6e7a6e70ae0614cce29b0257649fb276
+12) https://yandex.ru/tune/lang/?retpath=https%3A%2F%2Fyandex.ru%2F%3Fdomredir%3D1&nosync=1
+13) https://yandex.ru/tune/search/?retpath=https%3A%2F%2Fyandex.ru%2F%3Fdomredir%3D1&nosync=1
+14) https://yandex.ru/tune/geo/?retpath=https%3A%2F%2Fyandex.ru%2F%3Fdomredir%3D1&nosync=1
+15) https://yandex.ru/tune/search/?retpath=https%3A%2F%2Fyandex.ru%2F%3Fdomredir%3D1&nosync=1
+16) https://news.yandex.ru/?msid=1560353384.23932.122059.182417&mlid=1560352732.glob_225
+17) https://news.yandex.ru/Kazan?msid=1560353384.23932.122059.182417&mlid=1560352732.geo_43
+18) https://yandex.ru/time
+19) https://news.yandex.ru/story/Policiya_zaderzhala_Navalnogo_na_akcii_v_podderzhku_Golunova_v_Moskve--0b7fc72da1c680a9f0bc7b1a4f4ef4bc?lang=ru&from=main_portal&stid=WL3faxlMB4GMd8_jpeCa&t=1560352732&lr=43&msid=1560353384.23932.122059.182417&mlid=1560352732.glob_225.0b7fc72d
+20) https://news.yandex.ru/story/Iz_kvartiry_Bari_Alibasova_propal_ego_kot--f335fc376a3e299a236899d691c71f8f?lang=ru&from=main_portal&stid=VIJmvfZJv1Xhv_vKEGAY&t=1560352732&lr=43&msid=1560353384.23932.122059.182417&mlid=1560352732.glob_225.f335fc37
+
