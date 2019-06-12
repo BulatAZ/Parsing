@@ -1,0 +1,13 @@
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\AngleSharp.dll
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\AngleSharp.xml
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rumk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
